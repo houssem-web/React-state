@@ -1,0 +1,40 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 30%;
+  height: 600px;
+  margin: 0 auto;
+  background-color: white;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.card img {
+  margin-top: 20px;
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.card h1 {
+  color: black;
+  font-size: 1rem;
+  
+}
+
+.card h5 {
+  color: gray;
+}
+
+.card h3 {
+  color: black;
+}
+
+.card button {
+  background-color: cadetblue;
+  color: white;
+  border-radius: 5%;
+  margin-bottom: 5px;
+}
